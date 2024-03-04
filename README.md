@@ -8,8 +8,8 @@ Make sure you have Node.js and Yarn installed on your machine.
 
 ### Installation
 
-1. Clone the repository: `git clone `
-2. Navigate to the project directory: `cd `
+1. Clone the repository: `git clone https://github.com/sjt145/registration_form_idt`
+2. Navigate to the project directory: `cd registration_form_idt`
 3. Install dependencies: `yarn install`
 
 ### Running the Application
